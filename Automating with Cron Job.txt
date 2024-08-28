@@ -1,0 +1,2 @@
+crontab -e
+*/5 * * * * /path/to/ram_monitor.sh
